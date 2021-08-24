@@ -8,6 +8,6 @@ description = "Seite über mich"
 
 ## Vorname Nachname
 
-info@lernblog.ch
+
 
 Beschreibung, wer ich bin...
