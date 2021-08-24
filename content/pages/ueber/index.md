@@ -4,10 +4,8 @@ draft = false
 image = "camera.jpg"
 description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](camera.jpg)
 
 ## Vorname Nachname
-
-
 
 Beschreibung, wer ich bin...
