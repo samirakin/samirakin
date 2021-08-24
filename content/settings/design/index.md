@@ -1,6 +1,6 @@
 +++
 headless = true
 icon = ""
-image = "/media/cinema.jpg"
+image = "/media/camera.jpg"
 color = ""
 +++
