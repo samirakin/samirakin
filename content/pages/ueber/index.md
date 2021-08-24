@@ -6,6 +6,6 @@ description = "Seite über mich"
 +++
 ![](camera.jpg)
 
-## SamiraKi
+## SamiraKin
 
 Beschreibung, wer ich bin...
