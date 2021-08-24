@@ -12,3 +12,5 @@ Wir schossen Fotos von Blumen, die wir in der Umgebung fanden und luden diese au
 Uns ging es vor allem darum, dass wir auch ein bisschen austesten, was alles möglich ist. Mir machte das designen der Webseite sehr viel Spass, durch das spielen mit den Farben. Dazu auch, dass ich verschiedene Sachen austesten konnte. Interessant fand ich, wie man auf einen Knopf klicken konnte, um auf einer bestimmten Seite oder Abschnitt hinkomme, dies war ein bisschen komplexer, als die Gestaltung selbst. 
 
 Unsere erste Webseite: [petite fleur (petit-fleur.carrd.co)](https://petit-fleur.carrd.co/)
+
+![](ccccc.png "Einblick in Carrd.com")
