@@ -1,8 +1,8 @@
 +++
 title = "Über mich"
 draft = false
+image = "camera.jpg"
 description = "Seite über mich"
-image = ""
 +++
 ![](/img/default-author.png)
 
