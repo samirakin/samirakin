@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = ""
+icon = "/media/photo-camera-tool.png"
 image = "/media/camera.jpg"
 color = ""
 +++
