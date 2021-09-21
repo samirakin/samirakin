@@ -8,4 +8,4 @@ description = "Seite über mich"
 
 ## SamiraKin
 
-Beschreibung, wer ich bin...
+Schülerin der WMB Bern
