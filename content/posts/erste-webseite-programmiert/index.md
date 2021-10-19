@@ -8,6 +8,10 @@ description = "Heute habe ich das erste mal eine Webseite programmiert. "
 +++
 Heute haben wir im Web Unterricht das Programmieren einer Webseite unter die Lupe genommen. 
 
-Auf [Teil 1: Unsere erste Webseite | HTML & CSS Tutorial (Deutsch) | code.makery.ch](https://code.makery.ch/de/library/html-css/part1/) gibt es eine Anleitung, welche beim Programmieren hilft. Mit Hilfe dieser Anleitung konnte ich meine erste Webseite programmieren und dann über Netlify online aufgeschaltet. Meine selbst programmierte Webseite heisst: 
+Auf [Teil 1: Unsere erste Webseite | HTML & CSS Tutorial (Deutsch) | code.makery.ch](https://code.makery.ch/de/library/html-css/part1/) gibt es eine Anleitung, welche beim Programmieren hilft. Mit Hilfe dieser Anleitung konnte ich meine erste Webseite programmieren und dann über Netlify online aufgeschaltet. 
 
-[Samira's erste Webseite (misweb.netlify.app)](https://misweb.netlify.app/)
+Meine selbst programmierte Webseite heisst: [Samira's erste Webseite (misweb.netlify.app)](https://misweb.netlify.app/)
+
++
+
+![](programmieren.png)
