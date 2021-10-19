@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "  SamiraKin"
-image = ""
+image = "/media/camera.jpg"
 email = ""
 +++
