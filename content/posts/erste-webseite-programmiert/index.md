@@ -4,7 +4,7 @@ date = "2021-10-19"
 draft = false
 pinned = false
 image = "programmieren2.png"
-description = "Heute habe ich das erste mal eine Webseite programmiert. "
+description = "Heute habe ich das erste Mal eine Webseite programmiert. "
 +++
 Heute haben wir im Web Unterricht das Programmieren einer Webseite unter die Lupe genommen. 
 
