@@ -12,6 +12,6 @@ Auf [Teil 1: Unsere erste Webseite | HTML & CSS Tutorial (Deutsch) | code.makery
 
 Meine selbst programmierte Webseite heisst: [Samira's erste Webseite (misweb.netlify.app)](https://misweb.netlify.app/)
 
-+
+
 
 ![](programmieren.png)
