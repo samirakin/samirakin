@@ -1,5 +1,5 @@
 +++
-title = "Erstes Treffen mit unserem Kunden"
+title = "Erstes Treffen mit unserem Kunde"
 date = "2021-10-26"
 draft = false
 pinned = false
