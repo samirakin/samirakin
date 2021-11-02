@@ -1,8 +1,9 @@
 +++
-title = "Designen der Webseite für Kohler Haustechnik"
+title = "Start: Designen der Webseite für Kohler Haustechnik"
 date = "2021-11-02"
 draft = false
 pinned = false
+image = "123.png"
 description = "Heute ist es so weit und wir können mit dem Designen und Programmieren der Webseite für Kohler Haustechnik starten."
 +++
 Wir haben uns für den Anbieter Carrd.com entschieden, da wir mit diesem bereits gearbeitet haben. \
