@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "   SamiraKin"
-description = "   mein Blog"
+description = "   Mein Blog"
 footerLeft = ""
 footerRight = ""
 +++
