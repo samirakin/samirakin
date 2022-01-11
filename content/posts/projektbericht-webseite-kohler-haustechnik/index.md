@@ -34,8 +34,6 @@ Unser erstes Gespräch, mit unserem Kunden, lief sehr gut. Durch die PowerPoin
 
 
 
-
-
 Hier ein Einblick in die fertige Webseite: 
 
 ![](webseite.png)
