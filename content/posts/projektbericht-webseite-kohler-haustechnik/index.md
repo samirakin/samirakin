@@ -38,5 +38,5 @@ Hier ein Einblick in die fertige Webseite:
 
 ![](webseite.png)
 
-Hier der Link zur Webseite: \
+Hier der Link zur Webseite. Schau gerne vorbei : )\
 [Kohler Haustechnik](https://kohlerhaustechnik.carrd.co/#)
