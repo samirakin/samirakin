@@ -3,6 +3,7 @@ title = "Projektbericht: Webseite Kohler Haustechnik"
 date = "2022-01-11"
 draft = false
 pinned = false
+image = "webseite.png"
 description = "Hier findest du einen kleinen Bericht über unser Projekt; das erste mal für einen Kunden eine Webseite zu erstellen. Wir haben unsere Schritte von der Idee bis zu unserer fertigen Webseite festgehalten. Am Ende haben wir noch einen kleines Fazit und ein paar Tipps festgehalten mit Hilfe von unseren gesammelten Erfahrungen. "
 +++
 ### Unser Projekt 
