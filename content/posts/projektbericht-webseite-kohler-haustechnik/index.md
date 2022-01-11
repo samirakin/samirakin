@@ -30,4 +30,6 @@ Unser erstes Gespräch, mit unserem Kunden, lief sehr gut. Durch die PowerPoin
 
 Hier ein Einblick in die fertige Webseite: 
 
-![[Kohler Haustechnik](https://kohlerhaustechnik.carrd.co/#)](webseite.png)
+![](webseite.png)
+
+[Kohler Haustechnik](https://kohlerhaustechnik.carrd.co/#)
