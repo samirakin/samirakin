@@ -4,7 +4,7 @@ date = "2022-03-01"
 draft = false
 pinned = false
 image = "ich-liebe-siepng.png"
-description = "Ein Bekannter möchte gerne seine eigene Modemarke gründen und Kleidungsstücke verkaufen. Er selbst hat aber keine Erfahrung mit einem Start-up und ist überfordert mit den Planungsschritten. Durch ein Gespräch haben wir festgestellt, dass wir ihn bei den ersten Schritten unterstützen können."
+description = "Ein Bekannter möchte gerne ein Start-up gründen. Durch ein Gespräch haben wir festgestellt, dass wir ihm bei den ersten Schritten unterstützen können."
 +++
 Als erstes haben meine Teamkollegin Elina und ich bei der **Namenswahl** geholfen. Unser Kunde wollte einen italienischen Namen, passend zu dem Casual Look, weil dieser seinen Ursprung aus Italien hat. Der Name Libertà fiel und wir überprüften, ob diese Firma bereits besteht, in dem wir im Handelsregister nach schauten, ob ein Unternehmen mit dieser Firma eingetragen ist. Nur zum Verständnis, damit ihr versteht von was wir sprechen: 
 
