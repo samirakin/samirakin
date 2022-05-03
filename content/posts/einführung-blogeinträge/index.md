@@ -4,7 +4,7 @@ date = "2022-03-29"
 draft = false
 pinned = false
 image = "einander-helfen_24381-227.webp"
-description = "Letze Woche wurden wir von Marco gefragt, ob wir der BG-Klasse erklären könnten, wie der Blog funktioniert. Zusätzlich sollten wir der BG-Klasse helfen den Blog einzurichten. Mein Klassenkamerad Dominic und ich entschieden uns, dieser Anfrage nachzukommen."
+description = "Letze Woche wurden wir von Marco gefragt, ob wir der BG-Klasse erklären könnten, wie der Blog funktioniert und ihnen helfen den Blog einzurichten. Mein Klassenkamerad Dominic und ich entschieden uns, dieser Anfrage nachzukommen."
 +++
 Zuerst haben wir den Lernblog von Marco gezeigt, wo sich eine Anleitung zur Installation des Blogs befindet. \
 Wir liessen sie zuerst mal selbst probieren, mithilfe der Anleitung, den Blog zu installieren. \
